@@ -1,8 +1,11 @@
-#Mandy Mason
-#M02_case_study.py
-#Test cases in M02_case_study.png (screenshot)
+# Mandy Mason
+# M02_case_study.py
+# Test cases in M02_case_study.png (screenshot)
 
-#This app accepts student names and GPAs and tests if the student qualifies for either the Dean's List or the Honor Roll. A GPA of 3.5 or greater qualifies for the Dean's List, while a GPA of 3.25 or greater qualifies for the Honor Roll. Entering 'ZZZ' as the last name will terminate the program.
+# This app accepts student names and GPAs and tests if the student qualifies for 
+# either the Dean's List or the Honor Roll. A GPA of 3.5 or greater qualifies for the
+# Dean's List, while a GPA of 3.25 or greater qualifies for the Honor Roll. Entering
+# 'ZZZ' as the last name will terminate the program.
 
 
 last_name = ""
