@@ -35,6 +35,7 @@ class Automobile(Vehicle):
         self.doors = doors
         self.roof = roof
         
+# Accept user input and check for valid input. If the user enters invalid input, prompt them to enter valid input.
 
 def get_user_input(prompt, valid_options=None):
     while True:
