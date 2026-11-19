@@ -1,0 +1,27 @@
+[
+    {
+        "book_name": "The Weirdstone of Brisingamen",
+        "author": "Alan Garner",
+        "publisher": "Unknown"
+    },
+    {
+        "book_name": "Perdido Street Station",
+        "author": "China Miéville",
+        "publisher": "Unknown"
+    },
+    {
+        "book_name": "Thud!",
+        "author": "Terry Pratchett",
+        "publisher": "Unknown"
+    },
+    {
+        "book_name": "The Spellman Files",
+        "author": "Lisa Lutz",
+        "publisher": "Unknown"
+    },
+    {
+        "book_name": "Small Gods",
+        "author": "Terry Pratchett",
+        "publisher": "Unknown"
+    }
+]
