@@ -22,7 +22,8 @@ class TestSum(unittest.TestCase):
 if __name__ == "__main__":
     unittest.main()
     
-    # The test results from the above code show that the sum function works correctly for both lists of integers and lists # of fractions. The first test confirms that the sum of [1, 2, 3] is indeed 6, while the failure of the second test
+    # The test results from the above code show that the sum function works correctly for both lists of integers and lists
+    # of fractions. The first test confirms that the sum of [1, 2, 3] is indeed 6, while the failure of the second test
     # verifies that the sum of [1/4, 1/4, 2/5] does not equal 1. These tests ensure that the sum function can handle
     # different types of numerical inputs, but are by no means a complete test suite.
     
